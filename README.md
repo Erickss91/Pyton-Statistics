@@ -1,1 +1,1 @@
-# erick-repo
+# Exercicíos e estudos de estatísticas.
