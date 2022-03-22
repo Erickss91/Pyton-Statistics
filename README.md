@@ -1,1 +1,3 @@
-# Exercicíos e estudos de estatísticas.
+
+
+Exercicíos e estudos de estatísticas e Python.
